@@ -1,0 +1,3 @@
+timestamp,source_ip,threat_type,username,event_count,severity,risk_score,description
+2026-10-15 09:00:40+00:00,192.0.2.10,Possible Brute-Force Login,arun,5,HIGH,85,5 failed logins from 192.0.2.10 within 5 minutes.
+2026-10-15 09:00:50+00:00,192.0.2.10,Success After Repeated Failures,arun,5,HIGH,90,A successful login followed 5 failed attempts from 192.0.2.10 within the previous 5 minutes.
